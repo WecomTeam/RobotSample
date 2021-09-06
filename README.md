@@ -3,9 +3,22 @@
 
 <img src="https://wwcdn.weixin.qq.com/node/wework/images/wecom-temp-9d97515494480d008d3f52f03ffaa9f8.bb20633533.png" width="500" />
 
+
+
+
+## 主要功能
+
+本代码示例中包含群机器人相关的以下功能：
+
+* 发送文本类消息
+* 发送图片类消息
+* 发送 MarkDown 类消息
+* 发送文件类消息
+
 关于群机器人开发更多的信息，可以参考 [群机器人开发](https://openoss.wxwork.woa.com/api/docEdit/90000/90136/91770) 文档。参考以下操作，下载示例代码并完成服务部署：
 
-## 下载官方示例代码
+
+## 下载示例代码
 
 打开命令行工具，执行以下命令，下载服务端代码。
 ```bash
