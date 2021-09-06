@@ -1,6 +1,9 @@
-本项目代码示例旨在帮助开发者理解和上手企业微信群机器人相关的开发，该项目基于 `Express` 与 `VueCli` 构建。
+本项目代码示例旨在帮助开发者理解和上手企业微信群机器人相关的开发，基于 `Express` 与 `VueCli` 构建。
 
-参考以下操作，下载示例代码并完成服务部署：
+
+<img src="https://wwcdn.weixin.qq.com/node/wework/images/wecom-temp-9d97515494480d008d3f52f03ffaa9f8.bb20633533.png" width="500" />
+
+关于群机器人开发更多的信息，可以参考 [群机器人开发](https://openoss.wxwork.woa.com/api/docEdit/90000/90136/91770) 文档。参考以下操作，下载示例代码并完成服务部署：
 
 ## 下载官方示例代码
 
@@ -45,6 +48,5 @@ yarn  start
 
 ## 访问服务
 
-在浏览器中访问 http://localhost:3000/#/ 检查服务是否启动成功。显示如下页面表示启动成功。
+在浏览器中访问 http://localhost:3000/#/ 检查服务是否启动成功。
 
-![](https://wework.qpic.cn/wwpic/146295_LOOQ6mBuQXCIATH_1630067089/0)
