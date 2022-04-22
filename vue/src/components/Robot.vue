@@ -3,12 +3,11 @@
         <div class="block" style="padding:60px;">
             <div class="block-content">
                 <el-form ref="form" label-width="120px"  style="width:600px;">
-                    <el-form-item v-model="webhook">
+                    <el-form-item>
                         <div style="font-size:18px;">企业微信群机器人代码示例</div>
                     </el-form-item>
-                    <el-form-item v-model="webhook"
-                         label="机器人 Webhook">
-                        <el-input placeholder="不填则默认使用 main.config.js 中的配置"></el-input>
+                    <el-form-item label="机器人 Webhook">
+                        <el-input v-model="webhook" placeholder="不填则默认使用 main.config.js 中的配置"></el-input>
                     </el-form-item>
                     <el-form-item label="消息类型">
                          <el-radio-group v-model="form.msgtype" size="small">
