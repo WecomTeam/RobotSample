@@ -15,7 +15,7 @@
 * 发送 MarkDown 类消息
 * 发送文件类消息
 
-关于群机器人开发更多的信息，可以参考 [群机器人开发](https://openoss.wxwork.woa.com/api/docEdit/90000/90136/91770) 文档。参考以下操作，下载示例代码并完成服务部署：
+关于群机器人开发更多的信息，可以参考 [群机器人开发](https://developer.work.weixin.qq.com/document/path/91770) 文档。参考以下操作，下载示例代码并完成服务部署：
 
 
 ## 下载示例代码
